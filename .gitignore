@@ -91,3 +91,6 @@ ENV/
 .idea
 
 .vscode
+
+# Database
+*.db
